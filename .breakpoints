@@ -1,36 +1,3 @@
 {
-  "files": {
-    "task_table.py": [
-      {
-        "id": "3030d421-7155-44f0-b011-33fcf04a0c67",
-        "line": 2,
-        "version": 6,
-        "index": 20
-      },
-      {
-        "id": "4dd5e4a4-2a22-4d56-92c9-c0e20b9bfec5",
-        "line": 3,
-        "version": 6,
-        "index": 40
-      },
-      {
-        "id": "cfeab7d7-f8fc-496f-ba9b-199c05bc736b",
-        "line": 4,
-        "version": 6,
-        "index": 60
-      },
-      {
-        "id": "2fb5deef-a49b-4519-b708-aa9f55bbf91c",
-        "line": 5,
-        "version": 6,
-        "index": 80
-      },
-      {
-        "id": "e93c81a5-14ef-422f-a853-bbd3a717b932",
-        "line": 6,
-        "version": 6,
-        "index": 100
-      }
-    ]
-  }
+  "files": {}
 }
